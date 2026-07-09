@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Shah's Collection</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<style>
+body{
+font-family:Arial;
+background:#f8f8f8;
+text-align:center;
+margin:0;
+padding:0;
+}
+
+.header{
+background:#000;
+color:white;
+padding:20px;
+}
+
+.product{
+background:white;
+margin:20px;
+padding:20px;
+border-radius:10px;
+box-shadow:0 0 10px rgba(0,0,0,0.1);
+}
+
+img{
+width:90%;
+max-width:400px;
+border-radius:10px;
+}
+
+.price{
+font-size:24px;
+font-weight:bold;
+color:#e91e63;
+}
+
+.btn{
+background:#25D366;
+color:white;
+padding:12px 25px;
+text-decoration:none;
+border-radius:8px;
+display:inline-block;
+margin-top:10px;
+}
+</style>
+</head>
+
+<body>
+
+<div class="header">
+<h1>Shah's Collection</h1>
+<p>Latest Fashion Collection</p>
+</div>
+
+<div class="product">
+
+<h2>Yellow Embroidery Suit</h2>
+
+<p>📸 Add your dress image here</p>
+
+<p class="price">Rs. 2,500</p>
+
+<a class="btn"
+href="https://wa.me/923123395162?text=I%20want%20to%20order%20Yellow%20Embroidery%20Suit">
+Order on WhatsApp
+</a>
+
+</div>
+
+</body>
+</html>
